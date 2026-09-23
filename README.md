@@ -1,1 +1,1 @@
-These are simple practice problem based projects in python. Anyone can refer to these. All the details for the programs are commented respectively inside the the particular files.
+These are simple practice problem based projects in python. Anyone can refer to these. All the details for the programs are commented respectively inside the the particular files. All these simple programs were made by me during my course of CISCO NETACAD Essentials 1,2
